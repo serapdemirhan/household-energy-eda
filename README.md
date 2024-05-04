@@ -2,13 +2,7 @@
 
 ## Overview
 
-This repository presents an Exploratory Data Analysis (EDA) of household energy dynamics, aiming to uncover insights into energy consumption patterns across various building types. By delving into the dataset, the aim is not only to *facilitate strategic decision-making* for energy management companies but also to *deepen the comprehension of the multifaceted elements* that intricately shape energy usage dynamics in different buildings.
-
-Through comprehensive dataset analysis, actionable recommendations will be formulated to;
-
-- Optimize energy usage, 
-- Reduce costs, and 
-- Promote sustainable practices
+This repository presents an Exploratory Data Analysis (EDA) of household energy dynamics, aiming to uncover insights into energy consumption patterns across various building types. The analysis delves into a comprehensive dataset sourced from Open Power System Data, providing information on energy consumption, generation, and related parameters across different building types and appliances.
 
 ## Key Findings
 
