@@ -1,4 +1,4 @@
-# **Individual Project: Exploratory Data Analysis (EDA) of Household Energy Dynamics: Unveiling Energy Patterns and Solutions**
+# **Exploratory Data Analysis (EDA) of Household Energy Dynamics: Unveiling Energy Patterns and Solutions**
 
 ## Overview
 
